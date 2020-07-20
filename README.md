@@ -11,6 +11,6 @@ Will start stopped containers to update then shut them down in the background an
 make executable and run
 
 ```zsh
-[#]git@fachinformatiker:~> chmod +x updater.sh
-[#]git@fachinformatiker:~> ./updater.sh
+[#]git@fachinformatiker:~> chmod +x update_all.sh
+[#]git@fachinformatiker:~> ./update_all.sh
 ```
